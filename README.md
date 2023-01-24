@@ -43,5 +43,3 @@ If you find any of this useful in your own research, please cite -
   year={2021}
 }
 ```
-
-For more information, please contact Jérémie at `rappaz [dot] jeremie [at] gmail [dot] com`.

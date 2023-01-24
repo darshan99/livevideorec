@@ -32,7 +32,7 @@ Our datasets have been collected from Twitch. We took a full snapshot of all ava
 * `stop time`: last crawling round at which the user was seen in the chat.
 
 ## Credits
-If you find any of this useful in your own research, please cite
+If you find any of this useful in your own research, please cite - 
 
 ```
 @inproceedings{rappaz2021recommendation,

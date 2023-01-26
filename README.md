@@ -34,7 +34,7 @@ Our datasets have been collected from Twitch. We took a full snapshot of all ava
 ## Credits
 
 ```
-@inproceedings{rappaz2021recommendation,
+@inproceedings{
   title={Recommendation on Live-Streaming Platforms: Dynamic Availability and Repeat Consumption},
   booktitle={Fifteenth ACM Conference on Recommender Systems},
   pages={390--399},

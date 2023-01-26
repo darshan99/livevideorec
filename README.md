@@ -2,7 +2,6 @@
 
 This repository contains the code of LiveRec, from the paper  
 **Recommendation on Live-Streaming Platforms: Dynamic Availability and Repeat Consumption**  
-by Jérémie Rappaz, Julian McAuley and Karl Aberer, accepted as a full paper at RecSys 2021
 
 ## Abstract
  

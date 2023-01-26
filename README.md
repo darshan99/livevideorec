@@ -32,12 +32,10 @@ Our datasets have been collected from Twitch. We took a full snapshot of all ava
 * `stop time`: last crawling round at which the user was seen in the chat.
 
 ## Credits
-If you find any of this useful in your own research, please cite - 
 
 ```
 @inproceedings{rappaz2021recommendation,
   title={Recommendation on Live-Streaming Platforms: Dynamic Availability and Repeat Consumption},
-  author={Rappaz, J{\'e}r{\'e}mie and McAuley, Julian and Aberer, Karl},
   booktitle={Fifteenth ACM Conference on Recommender Systems},
   pages={390--399},
   year={2021}
